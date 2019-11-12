@@ -22,3 +22,11 @@ Lesson 3
 Käskudest eriti ei räägitud.
 Rääkis sellest, et maailmas pole piisavalt IP-sid kõigile aga sellele on juba lahendus.
 Lahenduseks hetkel on NAT süsteem ehk ruuteritel on private IP.
+
+Lesson 4
+
+tcpdump - Saab vaadata DNS trafficut.
+Rääkis miks on packetid vajalikud ja kuidas nad töötavad.
+Kui üks pool ei saa teiselt vastust teatud ajajooksul siis ühendus katkeb.
+
+
