@@ -29,4 +29,8 @@ tcpdump - Saab vaadata DNS trafficut.
 Rääkis miks on packetid vajalikud ja kuidas nad töötavad.
 Kui üks pool ei saa teiselt vastust teatud ajajooksul siis ühendus katkeb.
 
+Lesson 5
 
+traceroute - Näitab kõiki IP-sid mida läbisid enne kui jõudsid soovitud aadressile.
+Rääkis sellest, et ruuter ei suuda lasta suurt arvu packeteid korraga läbi ning mida ruuter teeb selle jaoks.
+Rääkis veel ka sellest, et seadmetel on firewallm, mis jälgib ja filtreerib tegevust seadme ja võrgu vahel.
