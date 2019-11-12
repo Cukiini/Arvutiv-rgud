@@ -34,3 +34,18 @@ Lesson 5
 traceroute - Näitab kõiki IP-sid mida läbisid enne kui jõudsid soovitud aadressile.
 Rääkis sellest, et ruuter ei suuda lasta suurt arvu packeteid korraga läbi ning mida ruuter teeb selle jaoks.
 Rääkis veel ka sellest, et seadmetel on firewallm, mis jälgib ja filtreerib tegevust seadme ja võrgu vahel.
+
+# Mida huvitavat teada sain
+IPv4 aadresse on üle 4,3 miljardi.
+
+Inimestel saavad olla samad IPd kui nad on NAT-iga eraldatud.
+
+Kõik pordid 1023 ja väiksemad on reserveeritud
+
+TCP-ga 'timeoutid' saab teada errori käitumisest ühendusvea asukohas.
+
+Sain teada kuidas timeout tekib.
+
+Interneti operaatorid nimetavad 'Node'-d läheduses olevate lennujaamadega, et neid oleks geograafiliselt kergem leida.
+
+Packetitel on Time to live, et ei tekiks infinite loopi.
