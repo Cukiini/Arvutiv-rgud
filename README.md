@@ -17,3 +17,8 @@ CTRL + C - Lõpetab protsessi
 host - Veebilehe sisse kirjutamisel tõlgib selle IP-ks.
 dig - nagu host, annab informatsiooni DNSi kohta.
 
+Lesson 3
+
+Käskudest eriti ei räägitud.
+Rääkis sellest, et maailmas pole piisavalt IP-sid kõigile aga sellele on juba lahendus.
+Lahenduseks hetkel on NAT süsteem ehk ruuteritel on private IP.
